@@ -176,6 +176,11 @@ hash = "a4431b2b05fc9c7d6ad6497f02693608afbc6e60c39e0a79addeabeef63ed634"
 metafile = true
 
 [[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "60bb7bc2451eba6b7e6c6f51f7a0fd3c153a72151d22f5eb069628dcf91fe701"
+metafile = true
+
+[[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "b8bc10ab5deca4466f83ae00f6e642c0103ea7f1545b9f813fb9afb6b45045c9"
 metafile = true
