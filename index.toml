@@ -151,28 +151,13 @@ hash = "31940e82fb95dce7424dfe54f9bfcd17f1a0b0c270cf8e472beb276bb12ccb63"
 metafile = true
 
 [[files]]
-file = "mods/macaws-fences-oh-the-biomes-youll-go.pw.toml"
-hash = "3aad39f8ecee85b088e6f67da651510c95d94561ccefb27d9cbdc9248315591d"
-metafile = true
-
-[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "11dfe0802ca07ed443520e60563f528c38b276eddc0bf79733c505b9e7a7534c"
 metafile = true
 
 [[files]]
-file = "mods/macaws-furnitures-oh-the-biomes-youll-go.pw.toml"
-hash = "e3891f6e6630797b0cbb5e367d14022ef0150fed3de7eefefd56c1abfe81b17e"
-metafile = true
-
-[[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
 hash = "a07078807168bc92becd29ae710fa8de13446757c5e6e2bf3fa5516418be39e2"
-metafile = true
-
-[[files]]
-file = "mods/macaws-roofs-oh-the-biomes-youll-go.pw.toml"
-hash = "a4431b2b05fc9c7d6ad6497f02693608afbc6e60c39e0a79addeabeef63ed634"
 metafile = true
 
 [[files]]
