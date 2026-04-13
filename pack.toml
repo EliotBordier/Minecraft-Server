@@ -1,0 +1,13 @@
+name = "Server"
+author = "Eliot"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "209ef93b388b51006115cb90a568decd49e3cf052d344474c98f1239b432fb4f"
+
+[versions]
+forge = "36.2.42"
+minecraft = "1.16.5"

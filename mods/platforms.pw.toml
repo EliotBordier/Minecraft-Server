@@ -1,0 +1,13 @@
+name = "Platforms"
+filename = "platforms-forge-1.16.2-lts-1.7.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8cece9b7fbbfebed136c70c36f2f067e519d8a66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6910117
+project-id = 244786

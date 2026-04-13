@@ -1,0 +1,13 @@
+name = "[DISCONTINUED] Macaw's Furnitures - Oh The Biomes You'll Go / Oh The Biomes We've Gone"
+filename = "mcwfurnituresbyg-1.16.5-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "968dc0acf232ea33e42ca934119c90b4954f9b73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5597075
+project-id = 714367

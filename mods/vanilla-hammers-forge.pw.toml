@@ -1,0 +1,13 @@
+name = "Vanilla Hammers [Forge]"
+filename = "vanillahammers-1.16.4-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52692ebf76f0685d80fe31085188a8e0c4f1cec6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3110528
+project-id = 359343
