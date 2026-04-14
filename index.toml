@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "78a2974be4ca1553dc4d339f6ebe6eee69e3113389b2fea2667a3678cf207c29"
+hash = "49037b6078aff3cde27eff3f4bbad89290ca6ebea63a4c0f56e734e6203e9fcc"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
-hash = "a303e76413c7adb625b6190273664174755e90bf3f268f81f6d1e916f4419d82"
+hash = "0a494ad4d851136ec9986124536c86747791eb6dade859e5d192b52dc400a5b2"
 metafile = true
 
 [[files]]
@@ -58,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "7e1125c6d568b1c522c45871bccb49875cf30cb502f7efd70d686a8c560ce46d"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "cf6a575860bb0c9ce92aa33ccf881a6a57363914f3c83487e9743f063fef7a91"
 metafile = true
 
 [[files]]
@@ -76,13 +81,13 @@ hash = "d9acf1f491728ab72154820ca790a3b92764cb68590c5143abe2bbb7aa8f8455"
 metafile = true
 
 [[files]]
-file = "mods/fast-leaf-decay.pw.toml"
-hash = "7784bbe87c156cdc99cce7ea79cc2d7d96580f716848e33ab215a31351625a61"
+file = "mods/ferritecore.pw.toml"
+hash = "d31e0d7a5de682cf8456af67efcfb0443a0f5295da54db4f357cba6932c6069c"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore.pw.toml"
-hash = "d31e0d7a5de682cf8456af67efcfb0443a0f5295da54db4f357cba6932c6069c"
+file = "mods/flywheel.pw.toml"
+hash = "fdde87c3450325f15a72576976f305ca943953650b4c2b63e52186ad54c50307"
 metafile = true
 
 [[files]]
