@@ -176,6 +176,11 @@ hash = "b8bc10ab5deca4466f83ae00f6e642c0103ea7f1545b9f813fb9afb6b45045c9"
 metafile = true
 
 [[files]]
+file = "mods/mixinbootstrap.pw.toml"
+hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
+metafile = true
+
+[[files]]
 file = "mods/morevanillalib.pw.toml"
 hash = "6f6002aa5054e8fcb5436dd36dd4122028fa36695749252aef4d17fa8f7b173a"
 metafile = true
