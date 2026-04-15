@@ -176,6 +176,11 @@ hash = "b8bc10ab5deca4466f83ae00f6e642c0103ea7f1545b9f813fb9afb6b45045c9"
 metafile = true
 
 [[files]]
+file = "mods/miners-helmet.pw.toml"
+hash = "68675679f91d5364a260243b4c6ee8e022ef6b2fdbb8c58cfddd6549969355cb"
+metafile = true
+
+[[files]]
 file = "mods/mixinbootstrap.pw.toml"
 hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
 metafile = true
